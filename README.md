@@ -86,7 +86,7 @@ W -->> K: Lista de todos los productos
 
 Note over K: Internamente es completamente distinto al proceso previo,<br/> pero en esencia seguimos buscando diferencias.
 
-K ->>- D: Productos a actualizar
+K ->>- D: Crear Factura
 
 ```
 
