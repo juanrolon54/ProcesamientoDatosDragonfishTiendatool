@@ -121,7 +121,7 @@ Tiene diversas tablas, con una informacion muy dispersa que tiene que ser impera
 | Articulo | "1076910" | [Codigo de Articulo](#articulos) |
 | ArticuloDescripcion | "Chipeadora Niwa. Motor Horiz. 6.5Hp. Máx. ch 2" | |
 | ArticuloImagen | "" | |
-| Lista | "LISTA0" | |
+| Lista | "LISTA1" | |
 | Precio | 324770.0 | |
 | Precios | (se obtiene una lista con todos los precios) | |
 | Stock | 0.0 | |
