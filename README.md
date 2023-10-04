@@ -13,7 +13,7 @@ Sobra aclarar:
 
 | Opcion | Costo | Tiempo |
 | :------------------------------------------ | :---------: | :---------: |
-| Integracion Propietaria <br/> de DragonFish | `$ 237 000` | `1 dia` |
+| Integracion Privada <br/> de DragonFish | `$ 237 000` | `2 dias` |
 | Integracion Krak | `$ 0` | `2 semanas` |
 
   
